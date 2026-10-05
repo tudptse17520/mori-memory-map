@@ -179,9 +179,7 @@ Friends → Friend Profile → Our Map → Shared Memory
 
 ### Figma Prototype
 
-[Figma Prototype](PASTE_FIGMA_LINK_HERE)
-
-Thay `PASTE_FIGMA_LINK_HERE` bằng liên kết prototype của nhóm trước khi đưa README lên GitHub.
+[Figma Prototype](https://www.figma.com/design/TgTBKmnQhyOccTuHJ6qtlF/Memory-Map-%E2%80%93-Mobile-App-UI-UX?node-id=0-1&t=hwf2gocraUSDgFM6-1)
 
 ## 9. Công nghệ dự kiến
 
