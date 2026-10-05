@@ -6,7 +6,7 @@
 
 ### Your life, mapped.
 
-**Biến những khoảnh khắc rời rạc thành bản đồ của cuộc sống.**
+**Những nơi đã đến. Những người đã gặp. Những khoảnh khắc trở thành một phần của bạn.**
 
 Mobile Application · Android (định hướng) · UI/UX Prototype · University Project
 
